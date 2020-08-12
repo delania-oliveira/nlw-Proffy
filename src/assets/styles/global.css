@@ -4,8 +4,7 @@
     --color-background: #F0F0F7;
     --color-primary-lighter: #9871F5;
     --color-primary-light: #916BEA;
-    --color-primary: #222222; 
-    --color-primary2: #8257E5;
+    --color-primary: #8257e5;
     --color-primary-dark: #774DD6;
     --color-primary-darker: #6842C2;
     --color-secundary: #04D361;
@@ -33,7 +32,7 @@ html, body, #root {
 }
 
 body {
-    background: var(--color-primary2);
+    background: var(--color-background);
 }
 
 #root {
