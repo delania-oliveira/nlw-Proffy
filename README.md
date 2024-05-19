@@ -4,12 +4,12 @@
 
 <p align="center">
 <a href="https://nlw-proffy-jet.vercel.app/)">Demonstração</a> •
- <a href="https://github.com/sihann/nlw-Proffy/issues">Bugs</a> • 
- <a href="https://github.com/sihann/nlw-Proffy/blob/master/LICENSE">Licença</a> 
+ <a href="https://github.com/delania-oliveira/nlw-Proffy/issues">Bugs</a> • 
+ <a href="https://github.com/delania-oliveira/nlw-Proffy/blob/master/LICENSE">Licença</a> 
 </p>
 
 <div align="center">
- <img src="https://img.shields.io/github/repo-size/sihann/nlw-Proffy?color=774dd6&style=for-the-badge"> <img src="https://img.shields.io/github/languages/count/sihann/nlw-Proffy?color=774DD6&style=for-the-badge"> <img src="https://img.shields.io/github/last-commit/sihann/nlw-Proffy?color=774dd6&style=for-the-badge"> <img src="https://img.shields.io/github/license/sihann/nlw-Proffy?color=774DD6&style=for-the-badge"> 
+ <img src="https://img.shields.io/github/repo-size/delania-oliveira/nlw-Proffy?color=774dd6&style=for-the-badge"> <img src="https://img.shields.io/github/languages/count/delania-oliveira/nlw-Proffy?color=774DD6&style=for-the-badge"> <img src="https://img.shields.io/github/last-commit/delania-oliveira/nlw-Proffy?color=774dd6&style=for-the-badge"> <img src="https://img.shields.io/github/license/delania-oliveira/nlw-Proffy?color=774DD6&style=for-the-badge"> 
  </div>
 
 -----
@@ -52,7 +52,7 @@ Proffy é uma plataforma de estudos online feito na semana Next Level Week #2 e 
 
 ```bash
 # clone o repositorio 
-$ git clone https://github.com/sihann/nlw-Proffy
+$ git clone https://github.com/delania-oliveira/nlw-Proffy
 
 # Entre na pasta do projeto
 $ cd nlw-Proffy
@@ -70,10 +70,10 @@ $ npm start
 Pronto, agora é possivel acessar a aplicação a partir da rota [http://localhost:3000](http://localhost:3000)
 
 *A API está configurada no [herokuapp](https://nlw-proffy-backend.herokuapp.com/). 
-Siga esse [guia](https://github.com/nlw-proffy-backend) para executar a api localmente. 
+Siga esse [guia](https://github.com/delania-oliveira/nlw-proffy-backend) para executar a api localmente. 
 
 ## :page_facing_up: Licença
-![GitHub](https://img.shields.io/github/license/sihann/nlw-Proffy?color=774DD6&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/delania-oliveira/nlw-Proffy?color=774DD6&style=for-the-badge)
 
 -----
 <p align="center">Feito com  :purple_heart: por Delania Oliveira.  :wave:</p>
